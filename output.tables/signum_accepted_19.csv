@@ -1,12 +1,12 @@
 Name	Count
-	19947
+	19951
 Doria	 1871
 Diss. HY	 1249
 Suom. kaunokirj. 3 -1972	 1085
 Hartauskirj. -1972|Käsifilmistö - filmikortit	 1057
 Suom. kaunokirj. 2 -1972	  864
 Suom. kaunokirj. 1 -1972	  701
-IV.1/49	  692
+IV.1/49	  693
 Suom. kaunokirj. 4 -1972	  641
 Ruots. kaunokirj. 1 -1972	  502
 K.Hartauskirj. -1972|Mf.	  487
@@ -41,8 +41,8 @@ Suom. hist. 3	  198
 Lakitiede 3 -1972	  194
 Kirj. hist.	  189
 Raittius 2 -1972	  188
+Musiikki 4 -1972	  182
 Kirkkohist. -1972|Käsifilmistö - filmikortit	  181
-Musiikki 4 -1972	  181
 Teologia 3 -1972	  181
 Kasvatusoppi 3 -1972	  180
 Elämisentaito -1972	  174
@@ -91,9 +91,9 @@ Maanvilj. 2B -1972	   95
 Suom. kaunokirj. 6 -1972	   95
 Tiet. seur.: Svenska litt. sällsk. -1972	   95
 Eläintiede -1972	   92
-Oppikoulut 3	   91
 Germ. kielit. -1972	   90
 Nuorisoseurat 2 -1972	   90
+Oppikoulut 3	   90
 K.Suomi-Venäjä, Estl. -1972|Mf.	   88
 Ruots. kaunokirj. 1|Käsifilmistö - filmikortit	   88
 Maanviljelys 3 -1972	   86
@@ -178,8 +178,8 @@ S|Käsifilmistö	   45
 Eksegetiikka	   44
 Hartauskirj.|Käsifilmistö - filmikortit	   44
 Kansantalous 3 -1972	   44
-Amerikka 1	   43
 K.Teologia -1972|Mf.	   43
+Amerikka 1	   42
 K.Heng.laulukirj. -1972|Mf.	   42
 K.Henkilökirj. -1972|Käsifilmistö - filmikortit	   42
 Ruots. kaunokirj. 5 -1972|Käsifilmistö - filmikortit	   42
@@ -277,7 +277,6 @@ Taide 3 -1972	   26
 Tiet. seur.: Kansantal. yhdistys -1972	   26
 K.Suomi-Venäjä, Estl. -1972|Käsifilmistö - filmikortit	   25
 Katekism. 2	   25
-Kauppakalenterit	   25
 Kirkkohist. -1972	   25
 nan|Amerikka S	   25
 Pienpainatekokoelma -1972	   25
@@ -286,6 +285,7 @@ III.3.b/51	   24
 K. Eläintiede -1972|Mf.	   24
 Käsifilmistö	   24
 Käsifilmistö - filmikortit|Suom. kaunokirj. 1	   24
+Kauppakalenterit	   24
 Maantiede 1	   24
 nan|Käsifilmistö|MF	   24
 Tiet. seur.: Vanamo -1972	   24
@@ -313,7 +313,6 @@ K. Maanviljelys 2 -1972|Mf.	   21
 Kansakoulut 1 -1972	   21
 Musiikki 5 -1972	   21
 Siv.seur.: Kansanvalistusseura 5 -1972	   21
-Amerikka 2a	   20
 Fol.U -1972	   20
 III.1/113	   20
 K. Amerikka 2 -1972	   20
@@ -327,6 +326,7 @@ Ruots. kaunokirj. 1|Mf.	   20
 Rv Diss. dupl.|Käsifilmistö - filmikortit	   20
 Suom. elämäkerrat 1. -1944|Mf.	   20
 Työväenkysymys 3 -1972	   20
+Amerikka 2a	   19
 Amerikka 3	   19
 Amerikka S	   19
 Eläintensuojelu 3 -1972|Käsifilmistö - filmikortit	   19
@@ -721,7 +721,6 @@ Yl.Aikakauskirjat -1972|Käsifilmistö	    6
 Yl.luonnontiede, Vipusten -1972	    6
 Yleiset sarjat 1 , Otavan -1972	    6
 Almanakat	    5
-Amerikka 2d	    5
 Diss. HY -1972|Kasvitiede -1972	    5
 Diss. HY -1972|Tiet. seur.: Kansantal. yhdistys -1972	    5
 Diss. HY|Filosofia	    5
@@ -936,6 +935,7 @@ Alkukoulut 1 -1972|nan	    3
 Almanakat -1972	    3
 Amerikka 2 -1972	    3
 Amerikka 2. -1972	    3
+Amerikka 2d	    3
 Amerikka 3 -1972|K. Amerikka 2 -1972|Mf.	    3
 Amerikka S|Käsifilmistö	    3
 Amerikka S|nan	    3
@@ -1386,7 +1386,6 @@ Näyttämö 1 -1972	    2
 Näyttämö 2	    2
 Neuvosto-Karjala -1972	    2
 Oikeuslaitos 3 -1972	    2
-Oppikoulut	    2
 Oppikoulut 2 	    2
 Oppikoulut 2, Hamina -1972	    2
 Oppikoulut 2, Helsinki -1972	    2
@@ -1396,7 +1395,6 @@ Oppikoulut 2, Tampere -1972	    2
 Oppikoulut 2, Viipuri -1972	    2
 Pienkarjanhoito 1 -1972	    2
 Pienpainatekokoelma (VII: Siveellisyys) -1972	    2
-Pienpainatekokoelma (Vuosikertomukset 2000-)	    2
 Pienpainatekokoelma IA (Senaatti, pöytäkirjoja)	    2
 Pienpainatekokoelma IB	    2
 Pienpainatekokoelma IB (Elintarvikesäännöstely)	    2
@@ -3600,6 +3598,7 @@ Kunn. hall. 3 (1. p. = Vaivaishoidon käsikirja) -1972	    1
 Kunn. hall. 4  -1972 ; Ca 1973-1974	    1
 Kunn. hall. 4 -1972|Valtion maat -1972	    1
 Kunn. hall. 4 (-1972) ; Ba (1973-1974)	    1
+Kunn. hall. 4 1909-1972 ; Pienpainatekokoelma IB 1973-1985	    1
 Kunn. hall. 5	    1
 Kunn.hall. 3. -1972	    1
 Kunn.hall. 4 (1915-72) ; Ba (1973-77) ; Ba2 (1978-99) ; Ba3-2359 (2000-)	    1
@@ -3914,6 +3913,7 @@ Nuottikokoelma Puhaltimet 3	    1
 Oikeuslaitos 1 -1972	    1
 Oikeuslaitos 4	    1
 Oikeuslaitos 4|Oikeuslaitos 4	    1
+Oppikoulut	    1
 Oppikoulut 2, Helsinki	    1
 Oppikoulut 2, Hfors -1972	    1
 Oppikoulut 2, Lovisa -1972	    1
@@ -4474,7 +4474,6 @@ Sidosmuseo|Raamatut 1	    1
 Sidosmuseo|Virsikirjat 1	    1
 Siv. seur.: Kansanvalistusseura 3	    1
 Siv.seur.	    1
-Siv.seur. : Kansanvalistusseura 2	    1
 Siv.seur. : Svenska folkskolans vänner	    1
 Siv.seur.: Kansanvalistusseura 1 -1972	    1
 Siv.seur.: Kansanvalistusseura 2	    1
